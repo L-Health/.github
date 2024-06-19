@@ -1,14 +1,14 @@
 ## Team Members
 
-| Category | ID              | Name                                   | University                                        | Status  |
+| Path | Student ID              | Name                                   | University                                        | Status  |
 |----------|-----------------|----------------------------------------|--------------------------------------------------|---------|
-| ML       | M120D4KY2060    | Frederick Rianto Putra                 | Institut Teknologi Telkom Purwokerto              | Active  |
-| ML       | M120D4KX1994    | Jesica Emarapenta Br Sinulingga        | Institut Teknologi Telkom Purwokerto              | Active  |
-| ML       | M324D4KY1756    | Gilbert Fritztama                      | Universitas Tanjungpura                           | Active  |
-| CC       | C299D4KY0881    | Akmal Raihansyah Breda                 | Universitas Pendidikan Indonesia                  | Active  |
-| CC       | C193D4KX0037    | Tania Tirta Aprilia                    | Universitas Bina Sarana Informatika               | Active  |
-| MD       | A409D4KX3401    | Jesiana Nahampun                       | Sekolah Tinggi Ilmu Komputer Yos Sudarso          | Active  |
-| MD       | A229D4KX4522    | Chelsea Angel Andrea Putri             | Universitas Jenderal Soedirman                    | Active  |
+| Machine Learning     | M120D4KY2060    | Frederick Rianto Putra                 | Institut Teknologi Telkom Purwokerto              | Active  |
+| Machine Learning       | M120D4KX1994    | Jesica Emarapenta Br Sinulingga        | Institut Teknologi Telkom Purwokerto              | Active  |
+| Machine Learning       | M324D4KY1756    | Gilbert Fritztama                      | Universitas Tanjungpura                           | Active  |
+| Cloud Computing      | C299D4KY0881    | Akmal Raihansyah Breda                 | Universitas Pendidikan Indonesia                  | Active  |
+| Cloud Computing       | C193D4KX0037    | Tania Tirta Aprilia                    | Universitas Bina Sarana Informatika               | Active  |
+| Mobile Development       | A409D4KX3401    | Jesiana Nahampun                       | Sekolah Tinggi Ilmu Komputer Yos Sudarso          | Active  |
+| Mobile Development       | A229D4KX4522    | Chelsea Angel Andrea Putri             | Universitas Jenderal Soedirman                    | Active  |
 
 ## Introduction
 
