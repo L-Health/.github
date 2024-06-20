@@ -1,7 +1,7 @@
 # L-Health
 <img src="https://storage.googleapis.com/cloud_architecture/L-HEALTH%20(C241-PS399)/1.png">
 
-## Team ID: C241-PS399
+## C241-PS399
 ## Team Members
 <img src="https://storage.googleapis.com/cloud_architecture/L-HEALTH%20(C241-PS399)/21.png">
 
