@@ -17,7 +17,7 @@
 
 ## Introduction
 
-L-Health is an innovative application designed to serve as a "companion" for individuals suffering from acid reflux (GERD). The primary goal of L-Health is to provide personalized dietary recommendations to help manage and alleviate the symptoms of acid reflux.
+L-Health is an innovative diet recommendation app for people with acid reflux disease, designed to be their "go-to" app. L-Health's main goal is to provide personalized meal plan recommendations to help manage and alleviate acid reflux symptoms.
 
 ## Purpose and Features
 
